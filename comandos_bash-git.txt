@@ -1,0 +1,17 @@
+Comandos Bash
+
+ls -a = Lista dos arquivos, ( -a para mostar arquivos ocultos)
+cd = Muda de diretório
+pwd = printing work directory = caminho pasta atual
+mkdir = Cria uma nova pasta
+Ctrl + L / clear = Limpa terminal
+cat "nomearquivo" = Mostra conteúdo do arquivo
+----------------------------------------------------------------
+Comandos Git
+
+git init = Inicia um repositório git
+rm -rf "pasta_arquivo" = Remove pastas/subpastas e arquivos
+git status = Mostra status do repositório
+git add = Adiciona arquivos/pastas para ser feito o commit ( git add . = Com o ponto, todos arquivos da página atual são adicionados )
+git commit -m "mensagem" = Commita arquivo/pasta e escreve uma mensagem
+git log = Mostra todos os commits
