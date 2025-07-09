@@ -15,3 +15,7 @@ git status = Mostra status do repositório
 git add = Adiciona arquivos/pastas para ser feito o commit ( git add . = Com o ponto, todos arquivos da página atual são adicionados )
 git commit -m "mensagem" = Commita arquivo/pasta e escreve uma mensagem
 git log = Mostra todos os commits
+git diff "nomearquivo" = Mostra diferença do último commit até arquivo atual
+git reset "nomearquivo" = remove arquivo do staging (git add)
+git checkout -b "nomedabranch" = Cria e vai para nova branch
+git branch = Mostra todos as branchs
