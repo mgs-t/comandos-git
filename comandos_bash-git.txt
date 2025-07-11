@@ -19,3 +19,8 @@ git diff "nomearquivo" = Mostra diferença do último commit até arquivo atual
 git reset "nomearquivo" = remove arquivo do staging (git add)
 git checkout -b "nomedabranch" = Cria e vai para nova branch
 git branch = Mostra todos as branchs
+
+"Arquivos criados em novas branchs, não aparecem em branchs antigas ou principal, quando é feito o checkout arquivos "somem"
+
+git merge "nomearquivo" = Realiza a junção da branch especificado com a branch atual
+git branch -D "nomedabranch" = Deleta branch informada ( normalmente usada quando finalizou trabalho nela e fez merge )
