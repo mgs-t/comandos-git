@@ -24,3 +24,7 @@ git branch = Mostra todos as branchs
 
 git merge "nomearquivo" = Realiza a junção da branch especificado com a branch atual
 git branch -D "nomedabranch" = Deleta branch informada ( normalmente usada quando finalizou trabalho nela e fez merge )
+
+"É simples a resolução de conflitos, quando acontecer esse problema só abrir o arquivo e ver o que deve ser mantido fazer o commit e está tudo certo
+
+"Para buscar novas alterações feitas na branch principal = git merge main
