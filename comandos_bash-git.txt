@@ -36,3 +36,7 @@ git remote add origin "caminho" = Linkando repositório remoto
 "Pull request" = Mostra informações de commits, pessoas que contribuiram (em uma nova branch por exemplo) e solicita o merge dos arquivos da branch para a main
 
 git pull origin main = Trás arquivos do repositório remoto para local
+
+Fork = Basicamente copiar um repositório
+
+git clone = Faço o download de um repositório através do link
