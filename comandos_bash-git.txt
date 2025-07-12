@@ -34,3 +34,5 @@ git remote add origin "caminho" = Linkando repositório remoto
 "Caso queira subir uma nova branch para o github = git push origin "novabranch"
 
 "Pull request" = Mostra informações de commits, pessoas que contribuiram (em uma nova branch por exemplo) e solicita o merge dos arquivos da branch para a main
+
+git pull origin main = Trás arquivos do repositório remoto para local
