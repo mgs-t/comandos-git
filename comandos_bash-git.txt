@@ -30,3 +30,7 @@ git branch -D "nomedabranch" = Deleta branch informada ( normalmente usada quand
 "Para buscar novas alterações feitas na branch principal = git merge main
 
 git remote add origin "caminho" = Linkando repositório remoto
+
+"Caso queira subir uma nova branch para o github = git push origin "novabranch"
+
+"Pull request" = Mostra informações de commits, pessoas que contribuiram (em uma nova branch por exemplo) e solicita o merge dos arquivos da branch para a main
